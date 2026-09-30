@@ -1,0 +1,24 @@
+{
+  "dependencies": [
+    {
+      "name": "format",
+      "type": "haxelib",
+      "version": null
+    },
+    {
+      "name": "hashlink",
+      "type": "haxelib",
+      "version": null
+    },
+    {
+      "name": "heaps",
+      "type": "haxelib",
+      "version": null
+    },
+    {
+      "name": "hlsdl",
+      "type": "haxelib",
+      "version": null
+    }
+  ]
+}

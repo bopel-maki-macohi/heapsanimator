@@ -1,0 +1,7 @@
+-lib heaps
+-lib hlsdl
+-lib format
+
+--main hanimator.Game
+
+-hl out/main.hl
