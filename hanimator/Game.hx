@@ -14,6 +14,10 @@ class Game extends App
 	{
 		super.init();
 
+		trace(Window.width);
+		trace(Window.height);
+		// Window.resize();
+
 		setScreen(new MainScreen());
 	}
 
